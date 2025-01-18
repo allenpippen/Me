@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 徐瑞鹏
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xu Rui Peng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rui Peng
+last_name: Xu
 
 # Status emoji
 status:
